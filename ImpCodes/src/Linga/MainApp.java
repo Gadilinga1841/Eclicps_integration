@@ -7,6 +7,7 @@ public class MainApp {
      System.out.println("linga welcom");
      System.out.println(args[1]);
      System.out.println(args[0]);
+     System.out.println("linga is very good");
 	}
 
 }
